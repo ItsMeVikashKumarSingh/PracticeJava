@@ -5,3 +5,6 @@
 /modules.xml
 /modules.xml
 /vcs.xml
+../out
+../.idea
+../first.iml
