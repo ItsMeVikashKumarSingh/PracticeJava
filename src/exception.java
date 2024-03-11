@@ -1,4 +1,4 @@
-public class exception extends Exception {
+public class exception Exception {
     static void divide(Integer a, Integer b)
     {
         try{
